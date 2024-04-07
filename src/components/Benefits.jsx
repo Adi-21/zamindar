@@ -9,7 +9,7 @@ const Benefits = () => {
     <div className="container relative z-2">
       <Heading
         className="md:max-w-md lg:max-w-2xl"
-        title="Chat Smarter, Not Harder with Brainwave"
+        title="Trade Smarter, Not Harder the tokenized Land with Zamindar"
       />
 
       <div className="flex flex-wrap gap-10 justify-center">
